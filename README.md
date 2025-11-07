@@ -1,5 +1,7 @@
 # Frontend Mentor - Recipe page
 
+# Live - https://receipe-app24234.netlify.app/ 
+
 ![Design preview for the Recipe page coding challenge](./preview.jpg)
 
 ## Welcome! 👋
